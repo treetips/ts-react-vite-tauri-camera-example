@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig",
+    "ms-azuretools.vscode-docker",
+    "vadimcn.vscode-lldb",
+    "yzhang.markdown-all-in-one",
+    "ZixuanChen.vitest-explorer",
+    "IronGeek.vscode-env",
+    "formulahendry.auto-rename-tag",
+    "usernamehw.errorlens",
+    "oderwat.indent-rainbow"
+  ]
+}

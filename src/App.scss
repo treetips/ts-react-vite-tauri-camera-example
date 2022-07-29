@@ -1,0 +1,39 @@
+html,
+body {
+  text-align: center;
+}
+
+.app-logo {
+  width: 400px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .app-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.env-key-values {
+  thead tr {
+    background-color: #366ba1;
+  }
+  th,
+  td {
+    padding: 10px;
+    border: 1px solid gray;
+  }
+}
